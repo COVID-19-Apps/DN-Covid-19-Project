@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "27155664845",
+    "firebase_url": "https://dn-covid-19-project1.firebaseio.com",
+    "project_id": "dn-covid-19-project1",
+    "storage_bucket": "dn-covid-19-project1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27155664845:android:b929e21a25d4df38eb3e84",
+        "android_client_info": {
+          "package_name": "com.dncovid19project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27155664845-qlhvk02006qn75pvbe6s9ak2s13jlnkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6-70bFULpvr4zYlTqBoL4i5BGR9dcGR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27155664845-qlhvk02006qn75pvbe6s9ak2s13jlnkg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
